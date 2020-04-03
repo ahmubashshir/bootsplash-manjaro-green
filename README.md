@@ -8,9 +8,11 @@ https://github.com/Blacksuan19/Bootsplash-Themes
 
 https://github.com/GrayJack/manjaro-grayjack/tree/master/PKGBUILDs/manjaro-bootsplash-green
 
+https://github.com/tchavei/bootsplash-manjaro-maia
+
 The spinner base gif was created using Preloaders.net and heavily modified afterwards
 
-Author: Tony Chaveiro
+Author: Mubashshir
 
 # Installation:
 
