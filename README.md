@@ -18,7 +18,7 @@ Author: Mubashshir
 
 - `git clone https://github.com/ahmubashshir/bootsplash-manjaro-green.git`
 - `cd bootsplash-manjaro-green`
-- 'git checkout pkgbuild'
+- `git checkout pkgbuild`
 - run `makepkg -s` to create an Arch package and install it with `pacman -U $package_name`or alternatively make and install with one single command: `makepkg -sci`
 - append `bootsplash-manjaro-green` hook at the end of HOOKS string in `/etc/mkinitcpio.conf`
 - add `bootsplash.bootfile=bootsplash-themes/manjaro-green/bootsplash` at the end of `GRUB_CMDLINE_LINUX` string in `/etc/default/grub` and don't forget to remove the `quiet` parameter!
